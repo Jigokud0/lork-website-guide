@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jigokud0.github.io/lork-website-guide/sitemap.xml
